@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "StarWarsSDK",
+        "repositoryURL": "https://github.com/martinmitrevski/StarWarsSDK.git",
+        "state": {
+          "branch": "master",
+          "revision": "334357d5972b7905413d453d30d16d77f123ec2a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
